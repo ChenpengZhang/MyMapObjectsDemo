@@ -1,0 +1,12 @@
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.exe
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjectsDemo.pdb
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.Properties.Resources.resources
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csproj.GenerateResource.cache
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.exe
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.pdb
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.dll
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\bin\Debug\MyMapObjects.pdb
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmMain.resources
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerRenderer.resources
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.frmLayerAttributes.resources
+D:\15.1\GIS设计\课堂实践\MyMapObjectsDemo\MyMapObjectsDemo\obj\Debug\MyMapObjectsDemo.csprojResolveAssemblyReference.cache
